@@ -1,0 +1,16 @@
+{
+  "name": "skma",
+  "version": "1.0.0",
+  "description": "A simple json schema validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/brunoziie/skma",
+  "author": "brunoziie",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prettier": "^2.5.1"
+  }
+}
